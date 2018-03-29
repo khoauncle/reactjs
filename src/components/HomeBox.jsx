@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import logo_html from '../img/logo_html.png';
-import logo_css from '../img/logo_css.png';
-import logo_brush from '../img/logo_brush.png';
+import logo_html from '../../assets/img/logo_html.png';
+import logo_css from '../../assets/img/logo_css.png';
+import logo_brush from '../../assets/img/logo_brush.png';
 
 export default class HomeBox extends Component {
   render(){
