@@ -1,4 +1,4 @@
-function login(username, password) {
+const login = (username, password) => {
   return {
       type: 'LOGIN',
       username,
